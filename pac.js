@@ -54,6 +54,7 @@ var domains = [
 	"blogger.com",
 	"hexo.io",
 	"medium.com",
+	"quora.com",
 
 	//GeneralNews
 	"rfi.my",
@@ -99,6 +100,7 @@ var domains = [
 	"golang.org",
 	"netspeak.org",
 	"endreslab.com",
+	"clarivate.com",
 
 	//Universities
 	"illinois.edu",
