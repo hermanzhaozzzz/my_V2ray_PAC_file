@@ -101,6 +101,7 @@ var domains = [
 	"netspeak.org",
 	"endreslab.com",
 	"clarivate.com",
+	"researchgate.net",
 
 	//Universities
 	"illinois.edu",
