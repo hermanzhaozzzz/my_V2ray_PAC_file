@@ -55,6 +55,8 @@ var domains = [
 	"hexo.io",
 	"medium.com",
 	"quora.com",
+	"zhaohuanan.cc",
+	"stackoverflow.com",
 
 	//GeneralNews
 	"rfi.my",
@@ -102,6 +104,9 @@ var domains = [
 	"endreslab.com",
 	"clarivate.com",
 	"researchgate.net",
+	"worldacademy.org",
+	"weebly.com",
+	"thelancet.com",
 
 	//Universities
 	"illinois.edu",
